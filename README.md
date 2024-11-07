@@ -25,7 +25,7 @@ Aqui sugere-se que sejam colocados ao menos os nomes de cada desenvolvedor envol
 --->
 
 - [Rodrigo Amaral](https://github.com/rodrigoFAmaral)
--
+- [Rafael Matuda](https://github.com/rmatuda)
 -
 -
 -
